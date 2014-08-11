@@ -1,7 +1,7 @@
 ## ofxEventManager ##
 
-very simple events implementation for openFrameworks.  
-Created by [takashiaoki.com](http://takashiaoki.com)  
+very simple events implementation (only using STL) for openFrameworks.  
+Created by [takashiaoki.com](http://takashiaoki.com) 
 
 ### features ###
 
